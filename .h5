@@ -1,0 +1,3 @@
+git add cnn_model.h5
+git commit -m "Add trained model"
+git push
